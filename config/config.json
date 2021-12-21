@@ -1,0 +1,20 @@
+{
+  "OWNER_ADDRESS": "0xd1bAf5C017e8BaB2ADB7599c497EF19A4B2721e1",
+  "CONTRACT_ADDRESS": "0x6eCFe8Df36B95Ebd03f5c15f91553aCe5E765B65",
+
+  "SCAN_LINK": "https://Etherscan.com/0x6eCFe8Df36B95Ebd03f5c15f91553aCe5E765B65",
+  "NETWORK": {
+    "NAME": "Rinkeby test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "ToadleToadle",
+  "SYMBOL": "TDL",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000,
+  "DISPLAY_COST": 0.045,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
